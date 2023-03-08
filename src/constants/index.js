@@ -116,7 +116,7 @@ const technologies = [
 
 const educations = [
   {
-    title: "Basic Web developement",
+    title: "Basic Web Dev.",
     company_name: "Brototype",
     icon: brototype,
     iconBg: "#383E56",
@@ -124,7 +124,7 @@ const educations = [
     points: ["Learnt Basics of Web Development"],
   },
   {
-    title: "Advanced Web development",
+    title: "Advanced Web Dev.",
     company_name: "Udemy",
     iconBg: "#383E56",
     icon: udemy,
