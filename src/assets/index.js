@@ -8,7 +8,6 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
-import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
@@ -20,15 +19,19 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import solidity from "./tech/solidity.png"
+// Education
+import papafam from "./company/AvEitaglSWyxnOHmJ77l_file.jpg"
+import brototype from "./company/channels4_profile.jpg"
+import udemy from "./company/d6014ad139cabacd5cb8d529b5968ccdec4a6de0-3840x2160.png"
+import mosh from "./company/Mosh_Cropped.png"
+import Airbnb from "./Airbnb.png.png"
+import Netflix from "./Netflix.jpg"
+import Medium from "./Medium.png"
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+
+
 
 export {
   logo,
@@ -40,7 +43,6 @@ export {
   menu,
   close,
   css,
-  docker,
   figma,
   git,
   html,
@@ -52,11 +54,13 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  solidity,
+  papafam,
+  mosh,
+  udemy,
+  brototype,
+  Netflix,
+  Airbnb,
+  Medium
+ 
 };
